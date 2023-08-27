@@ -1,4 +1,12 @@
-# Demo file for the folder with the draft version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Estructura de carpeta "Retro"
 
-This folder contains a subfolder for each related module and the files that must be reviewed for each deliverable. Please refer to each subfolder for more details.
+Esta carpeta ("Retro") contiene dos sub-carpetas correspondientes al momento de retroalimentacion de cada modulo: Modulo 1 - Estadistica y Modulo 2- Machine Learning. Dentro de cada subcarpeta se podran encontrar los entregables correspondientes a cada modulo para el momento de retroalimentacion siguiendo la siguiente estructura:
+
+Retro (carpeta actual)
+  |
+  |__ M1_Statistics
+  |     |__Ev_01
+  |
+  |__ M2_ML
+        |__ Ev_01
+        |__ Ev_02
