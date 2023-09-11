@@ -2,7 +2,7 @@
 
 - **Estructura del repositorio:** En esta carpeta se tiene el notebook principal el cual funge como reporte realizado. Dentro de este notebook se tiene tanto el desarrollo tecnico (codigo del procesamiento e implementación del modelo) como tambien la descripción del mismo y el analisis de los resultados:
     - README.md: descripcion de la entrega y estructura del repositorio
-    - final/M2_ML/Ev_02/ML_from_framework.ipynb: reporte y notebook del codigo fuente del modelo
+    - ML_from_framework.ipynb: reporte y notebook del codigo fuente del modelo
 
 - **Liga notebook:** https://colab.research.google.com/drive/1OVa4RdI_LRNSA5zla2e3EZElquLlJHoC?usp=sharing
 

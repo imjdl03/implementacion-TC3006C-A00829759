@@ -3,6 +3,8 @@
  * **README.md:** Este archivo
  * **Modelo_Estadisticco_Base.ipynb** Reporte y notebook de la actividad 
 
+ - **Liga notebook:** https://colab.research.google.com/drive/1DseOF9fLw8EfapAtc3XjSfBMGC0FLPhZ?usp=sharing
+
  - **Archivos a revisar:** final/M1_Statistics/Ev_01/Modelo_Estadisticco_Base.ipynb
 
 - **Cambios implementados:**
