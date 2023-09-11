@@ -1,13 +1,19 @@
-# Retroalimentacion modulo 2
+# Version Final Evidencia 2 - Modulo 2 ML
 
 - **Estructura del repositorio:** En esta carpeta se tiene el notebook principal el cual funge como reporte realizado. Dentro de este notebook se tiene tanto el desarrollo tecnico (codigo del procesamiento e implementación del modelo) como tambien la descripción del mismo y el analisis de los resultados:
     - README.md: descripcion de la entrega y estructura del repositorio
-    - Retroalimentacion 2 Modulo 2.ipynb: reporte y notebook del codigo fuente del modelo
+    - final/M2_ML/Ev_02/ML_from_framework.ipynb: reporte y notebook del codigo fuente del modelo
 
-- **Archivos a revisar:** retro/M2_ML/Ev_01/regresionLogistica.ipynb
+- **Liga notebook:** https://colab.research.google.com/drive/1OVa4RdI_LRNSA5zla2e3EZElquLlJHoC?usp=sharing
+
+- **Archivos a revisar:** final/M2_ML/Ev_02/ML_from_framework.ipynb
 
 - **Cambios implementados:**
-   - (Aun no se aplican cambios al ser entrega de retroalimentacion)
+   - Se añadió el numero de registros del dataset utilizado
+   - Se añadió la descripción de las metricas de evaluacion para el subconjunto de pruebas.
+   - Se añadieron predicciones realizadas con el modelo entrenado, para datos diferentes a los de entrenamiento.
+   - Se hizo una comparación entre las predicciones generadas y los valores que debieron obtenerse.
+
 
 - **Descripción del Modelo utilizado:** Se eligio este modelo debido al tipo de problema que el dataset seleccionado requiere, donde acorde a las variables presentes, se busca hacer una tarea de clasificacion binaria, la cual puede ser abordada con el modelo de regresión logistica, el cual es diseñado especificamente para esta tarea. El modelo de regresión logística es una técnica utilizada para modelar la relación entre una variable binaria dependiente y una o más variables independientes, que pueden ser continuas o categóricas. Este modelo de regresión se utiliza en problemas de clasificación, donde el objetivo es predecir a cuál de las dos clases pertenece una observación. La principal idea detrás de la regresión logística es que la relación entre las variables independientes y la probabilidad de que ocurra un evento (la variable binaria dependiente) se modela utilizando la función logística, también conocida como curva en forma de "S". Esta función toma cualquier valor de entrada y lo transforma en un valor entre 0 y 1, que puede interpretarse como la probabilidad de que el evento ocurra. 
 
@@ -40,6 +46,7 @@
       - Up: upsloping, Flat: flat, Down: downsloping
   - HeartDisease: salida
       - 1: heart disease, 0: Normal
+  - Numero de registros: 918
 
 - **Enlace:** https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download
 
